@@ -17,7 +17,7 @@
 ## Instalação
 
 Clone da Aplicação
-  `git clone https://github.com/cleberbonifacio/make-transactions.git`
+  `git clone https://github.com/cleberbonifacio/shorturl.git`
 
 Criar .env na raiz do projeto utilizando o .env.example como referência
 

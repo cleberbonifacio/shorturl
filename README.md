@@ -1,7 +1,7 @@
-# Make Transactions
+# Short URL
 
 <h3 align="center">
-   Aplicação utilizada para realizar transações.<br><br> Os usuários ao se cadastrarem recebem R$ 100.00 de Bônus. Usuários podem enviar dinheiro(efetuar transferência) para lojistas e entre usuários. Lojistas apenas recebem transferências.
+   Aplicação utilizada para encurtar URLS. O serviço recebe como parâmetro uma URL, uma nova url é gerada a partir de um hash sendo acessível por um mês.
    <br><br>
 </h3>
 
@@ -36,11 +36,13 @@ Rodar migrations do Banco de dados
 
 ### Telas
   
-  <img src="https://github.com/cleberbonifacio/make-transactions/blob/main/prints/registerUser.PNG">
-  <img src="https://github.com/cleberbonifacio/make-transactions/blob/main/prints/loginUser.PNG">
-  <img src="https://github.com/cleberbonifacio/make-transactions/blob/main/prints/detailUser.PNG">
-  <img src="https://github.com/cleberbonifacio/make-transactions/blob/main/prints/authorized.PNG">
-  <img src="https://github.com/cleberbonifacio/make-transactions/blob/main/prints/Unauthorized.PNG">
+  <img src="https://github.com/cleberbonifacio/shorturl/blob/main/prints/register.PNG">
+  <img src="https://github.com/cleberbonifacio/shorturl/blob/main/prints/login.PNG">
+  <img src="https://github.com/cleberbonifacio/shorturl/blob/main/prints/userDetail.PNG">
+  <img src="https://github.com/cleberbonifacio/shorturl/blob/main/prints/cadastro.PNG">
+  <img src="https://github.com/cleberbonifacio/shorturl/blob/main/prints/sucesso.PNG">
+ <img src="https://github.com/cleberbonifacio/shorturl/blob/main/prints/vencida.PNG">
+<img src="https://github.com/cleberbonifacio/shorturl/blob/main/prints/erro.PNG">
   
   
 
